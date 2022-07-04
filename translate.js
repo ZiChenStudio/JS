@@ -47,7 +47,9 @@ function English()
 
     x=document.getElementById("F16");
     x.innerHTML="Back"
-
+}
+function EnglishPVZ()
+{
     x=document.getElementById("F17");
     x.innerHTML="ZiChen PVZ-ZS official website"
 
