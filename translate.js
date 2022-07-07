@@ -47,6 +47,12 @@ function English()
 
     x=document.getElementById("F16");
     x.innerHTML="Back"
+
+    x=document.getElementById("F17");
+    x.innerHTML="Friendship link"
+
+    x=document.getElementById("F18");
+    x.innerHTML="GooGle translate"
 }
 function EnglishPVZ()
 {
